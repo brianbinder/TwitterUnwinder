@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Twitter Unwinder</string>
+    <string name="greeting_text_default">Requesting data...</string>
+    <string name="unwinder_label_http">Tweet unwinder</string>
+</resources>
